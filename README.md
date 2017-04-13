@@ -4,11 +4,11 @@
 
 This project uses Matplotlib, Searborn and Pandas to clean, wrangle, create relationships and display data insights on multiple sources of data.
 
-## Reseach Question
+## Research Question
 
 How Santa Clara, CA contributes to the overal innovation efficiency of California and how California compares to the rest of US states regarding Innovation efficiency.
 
-The Innovation efficiency is calculated by using the R&D spendings divided by the number of patents granted for a state. 
+The Innovation efficiency is calculated by using the R&D spendings divided by the number of patents granted for a state.
 
 
 ## Sources
