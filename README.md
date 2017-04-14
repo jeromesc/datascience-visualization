@@ -19,4 +19,4 @@ local file : expenditures_state.xlsx
 State Patenting Breakout by Regional Component, Count of 2000 - 2015 Utility Patent Grants
 https://www.uspto.gov/web/offices/ac/ido/oeip/taf/countyall/usa_county_gd.htm
 
-[Result Image](datascience-visualization/graph.png)
+[Result Image](https://github.com/jeromesc/datascience-visualization/blob/master/graph.png)
